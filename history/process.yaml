@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03INT2-MJ03D-06-BOTPTA303-streamed-botpt_heat_sample
 data_stream: RS03INT2-MJ03D-06-BOTPTA303-streamed-botpt_heat_sample
 end_date: '2021-03-11T00:49:35.000Z'
-last_updated: '2021-03-11T18:30:09.756128Z'
+last_updated: '2021-03-11T18:38:55.786343'
 start_date: '2014-08-29T23:17:22.000Z'
-status: pending
+status: success
